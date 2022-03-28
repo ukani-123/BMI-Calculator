@@ -37,7 +37,7 @@ public class bmiactivity extends AppCompatActivity {
         getSupportActionBar().setElevation(0);
         getSupportActionBar().setTitle(Html.fromHtml("<font color=\"white\"></font>"));
         getSupportActionBar().setTitle("Result");
-        ColorDrawable colorDrawable = new ColorDrawable(Color.parseColor("1e1d1d"));
+        ColorDrawable colorDrawable = new ColorDrawable(Color.parseColor("#1e1d1d"));
         getSupportActionBar().setBackgroundDrawable(colorDrawable);
 
         intent = getIntent();
