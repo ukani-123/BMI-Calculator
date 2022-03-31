@@ -70,7 +70,8 @@
             android:layout_above="@id/textfemale"
             android:layout_centerInParent="true"
             android:layout_marginBottom="20dp"
-            android:src="@drawable/female"></ImageView>
+            android:src="@drawable/female">
+        </ImageView>
 
         <TextView
             android:id="@+id/textfemale"
